@@ -64,7 +64,7 @@
  
   <title>
 	<?php echo $this->titleString() ?>
-	Sunnah.com - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
+	Sunnah.com beta - Sayings and Teachings of Prophet Muhammad (صلى الله عليه و سلم)
   </title>
 </head>
 
